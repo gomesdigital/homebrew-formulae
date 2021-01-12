@@ -8,6 +8,7 @@ class Airplonk < Formula
 
   def install
     bin.install "airplonk"
+    man.install "doc/airplonk.1"
   end
 
 end

@@ -5,8 +5,8 @@
 class Airplonk < Formula
   desc "Plonk stuff around your local net"
   homepage "https://github.com/daaanstraight"
-  url "https://github.com/daaanstraight/AirPlonk/archive/v1.0.2.tar.gz"
-  sha256 "7365ec626b2bc4660e5b5eba5a866548f62d21d42bb6e39633d9d7fb1eaee266"
+  url "https://github.com/daaanstraight/AirPlonk/archive/v1.0.3.tar.gz"
+  sha256 "eeef13e0965bf1afe53ffac3c8397fe83c7fe0990ce8ffc0ba26864d5f2c364b"
   license "GPL-3.0-only"
   depends_on "awk"
   depends_on "expect"

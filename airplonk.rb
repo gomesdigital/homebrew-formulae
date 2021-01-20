@@ -15,6 +15,6 @@ class Airplonk < Formula
   depends_on "rsync"
   def install
     bin.install "airplonk"
-    man1.install "airplonk.1"
+    man1.install "doc/airplonk.1"
   end
 end

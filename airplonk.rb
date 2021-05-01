@@ -1,7 +1,7 @@
 # typed: strong
 # frozen_string_literal: true
 
-# A Homebrew formula for AirPlonk, https://github.com/daaanstraight/AirPlonk
+# A Homebrew formula for AirPlonk, https://github.com/gomesdigital/AirPlonk
 class Airplonk < Formula
   desc "Plonk stuff around your local net"
   homepage "https://github.com/daaanstraight"

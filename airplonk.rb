@@ -4,9 +4,9 @@
 # A Homebrew formula for AirPlonk, https://github.com/gomesdigital/AirPlonk
 class Airplonk < Formula
   desc "Plonk stuff around your local net"
-  homepage "https://github.com/daaanstraight"
-  url "https://github.com/gomesdigital/AirPlonk/archive/v1.0.1.tar.gz"
-  sha256 "6fa4ecc08bad7ba949c939cf11a125ee26fbed16f614095e0763a7665fc0420b"
+  homepage "https://github.com/gomesdigital"
+  url "https://github.com/gomesdigital/AirPlonk/archive/v1.0.2.tar.gz"
+  sha256 "bb76d7f5ae4a3818abd274e5c526d760a5b1960af871fa8030a2ed17f460fe4d"
   license "GPL-3.0-only"
   depends_on "awk"
   depends_on "expect"
